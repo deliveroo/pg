@@ -7,7 +7,7 @@ import (
 
 	"github.com/deliveroo/pg-roo/internal"
 	"github.com/deliveroo/pg-roo/internal/pool"
-	"github.com/go-pg/pg/orm"
+	"github.com/deliveroo/pg-roo/orm"
 )
 
 type baseDB struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-pg/pg/types"
+	"github.com/deliveroo/pg-roo/types"
 )
 
 func compositeScanner(typ reflect.Type) types.ScannerFunc {

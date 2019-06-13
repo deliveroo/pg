@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-pg/pg"
-	"github.com/go-pg/pg/orm"
+	"github.com/deliveroo/pg-roo"
+	"github.com/deliveroo/pg-roo/orm"
 )
 
 var pgdb *pg.DB

@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/go-pg/pg/types"
+	"github.com/deliveroo/pg-roo/types"
 )
 
 // ColumnScanner is used to scan column values.

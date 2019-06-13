@@ -1,7 +1,7 @@
 package orm
 
 import (
-	"github.com/go-pg/pg/internal"
+	"github.com/deliveroo/pg-roo/internal"
 )
 
 // Delete deletes a given model from the db

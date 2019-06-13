@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/go-pg/pg/internal/parser"
-	"github.com/go-pg/pg/types"
+	"github.com/deliveroo/pg-roo/internal/parser"
+	"github.com/deliveroo/pg-roo/types"
 )
 
 var errEndOfComposite = errors.New("pg: end of composite")

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/go-pg/pg/internal/structfilter"
+	"github.com/deliveroo/pg-roo/internal/structfilter"
 )
 
 type structFilter struct {

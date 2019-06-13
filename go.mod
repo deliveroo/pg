@@ -1,4 +1,4 @@
-module github.com/go-pg/pg
+module github.com/deliveroo/pg-roo
 
 go 1.12
 

@@ -1,7 +1,7 @@
 package tag
 
 import (
-	"github.com/go-pg/pg/internal/parser"
+	"github.com/deliveroo/pg-roo/internal/parser"
 )
 
 type Tag struct {

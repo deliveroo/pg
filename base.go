@@ -5,8 +5,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/go-pg/pg/internal"
-	"github.com/go-pg/pg/internal/pool"
+	"github.com/deliveroo/pg-roo/internal"
+	"github.com/deliveroo/pg-roo/internal/pool"
 	"github.com/go-pg/pg/orm"
 )
 
